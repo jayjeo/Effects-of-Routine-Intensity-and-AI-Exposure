@@ -13,7 +13,7 @@
 - main.do 파일 실행
 
 # LLM을 사용한 반복성 및 인지 점수 구축을 위한 python 코드
-- 비공개, 별도 요청시 제공 가능
+- 별도 요청시 제공 (이메일)
 
 # 연락처
 - [https://www.jayjeo.com/](https://www.jayjeo.com/)

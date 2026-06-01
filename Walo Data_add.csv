@@ -1,0 +1,75 @@
+ID, Occupation ,Employment share (1980–2005) , Wage centile , RTI Autor and Dorn , RTI Acemoglu and Autor , RTI Goos et al. , RTI Dengler and Matthes , RTI Marcolin et al. 
+1," Executive, administrative, and managerial occupations",1.06,88,-0.86,-1.31,-1.17,-0.84,-1.51
+2, Management-related occupations,1.35,81,0.5,-0.78,-1.14,-0.3,-1.27
+3, Architects,0.04,86,0.46,-1.26,-1.09,-0.97,-1.05
+4, Engineers,-0.14,98,-0.96,-0.9,-0.72,0.02,-1.05
+5, Mathematical and computer scientists,1.09,98,-1.28,-0.56,-0.75,-0.61,-1.06
+6, Natural scientists ,0.11,88,-0.22,-0.88,-0.71,-0.45,-1.05
+7, Health diagnosing occupations ,0.17,100,-1.21,-0.6,-0.79,-1.39,-0.68
+8, Health assessment and treating occupations ,0.48,58,-0.48,-0.1,-0.8,-1.32,-0.58
+9, Therapists ,0.32,46,-0.93,-1.34,-0.7,-1.19,-0.56
+10," Teachers, postsecondary ",0.25,69,-0.91,-1.66,-1.39,-1.75,-1.56
+11," Teachers, except postsecondary ",1.1,49,-1.56,-1.53,-1.08,-1.7,-0.71
+12," Librarians, archivists, and curators ",-0.05,39,-0.7,-1.58,-0.87,-0.89,-1.05
+13, Social scientists and urban planners ,0.06,85,0.06,-1.81,-1.52,-1.48,-1.05
+14," Social, recreation, and religious workers ",0.3,43,-0.3,-2.17,-1.42,-1.27,-0.98
+15, Lawyers and judges ,0.19,97,1.43,-1.26,-1.61,-0.88,-1.58
+16," Writers, artists, entertainers, and athletes ",0.52,41,-0.08,-0.54,-0.63,-0.68,-1.07
+17, Health technologists and technicians ,0.31,40,-0.17,0.68,-0.21,-0.62,0.01
+18, Engineering and related technologists and technicians ,-0.37,74,-0.14,0.31,-0.1,0.44,-1.01
+19, Science technicians ,-0.08,64,-0.31,0.59,0.27,0.71,-1.05
+20," Technicians, except health, engineering, and science ",0.68,76,-0.41,0.05,-0.52,-0.46,-0.8
+21, Supervisors and proprietors of sales jobs ,1.59,72,-1.17,-1,-0.5,-0.85,0.01
+22," Sales representatives, finance, and business services ",0.07,77,1.33,-1.53,-1.44,-0.06,-1.52
+23," Sales representatives, commodities ",-0.23,15,0.55,0.08,-0.78,-0.12,0.2
+24, Sales demonstrators/promoters/models ,0.03,6,-0.4,-1.62,-0.91,0.24,0.01
+25," Supervisors, administrative support occupations ",0.38,79,0.61,-0.7,-0.81,-0.74,-1.05
+26, Computer equipment operators ,-0.34,56,-0.33,-0.51,-1.04,-0.05,-1.05
+27," Secretaries, stenographers, and typists ",-1.84,31,2.87,0.36,-1,0.08,-0.73
+28, Information clerks ,0.32,10,1.56,0.29,-1.11,-0.36,0.46
+29," Records processing occupations, except financial ",-0.35,22,1.41,0.18,-0.71,-0.03,0.02
+30, Financial records processing occupations ,-0.81,36,2.3,0.69,-1.05,0.75,-0.71
+31," Duplicating, mail, and other office machine operators ",0.06,13,0.88,1.8,1.3,-0.15,0.01
+32, Communications equipment operators ,-0.31,42,2.04,2.12,-0.51,1.01,0.54
+33, Mail and message distributing occupations ,-0.14,64,1.09,1.26,0.28,-0.27,0.25
+34," Material recording, scheduling, and distributing clerks ",0.29,47,0.69,0.27,-0.45,-0.17,-0.21
+35, Adjusters and investigators ,1.71,56,1.09,0.63,-1.09,-0.57,0.11
+36, Miscellaneous administrative support occupations ,-1.52,28,1.77,0.47,-0.81,0.33,-0.11
+37, Private household occupations ,-0.15,5,-0.81,0.1,0.11,-0.94,0.54
+38," Supervisors, protective service occupations ",0.05,79,-0.24,-0.92,-0.39,-1.21,0.54
+39, Firefighting and fire prevention occupations ,0,86,-2.13,-0.69,0.34,-1.1,0.29
+40, Police and detectives ,0.38,84,-1.5,-0.22,-0.5,-0.87,-0.33
+41, Guards ,0.14,27,0.28,-0.15,-0.48,-1.3,0.32
+42, Food preparation and service occupations ,0.43,1,0.2,0.09,-0.23,-0.23,0.25
+43, Health service occupations ,0.71,8,-0.56,0.06,-0.42,-0.96,0.22
+44," Cleaning and building service occupations, except households ",-0.3,13,-0.5,-0.21,0.4,-0.85,0.09
+45, Personal service occupations ,0.83,6,-0.1,-1.19,-0.61,-0.91,-0.15
+46, Supervisors of mechanics and repairers ,0.08,98,-0.88,-1.1,-0.05,1.37,-0.57
+47, Vehicle and mobile equipment mechanics and repairers ,-0.46,70,-0.3,0.34,1.16,1.34,-0.49
+48, Electrical and electronic equipment repairers ,0.05,84,-0.29,-0.66,0.55,1.38,-0.37
+49, Miscellaneous mechanics and repairers ,-0.19,75,-0.17,-0.39,1.2,1.33,0.52
+50, Supervisors of construction work ,0.08,96,-1.2,-0.59,-0.21,0.59,-1.05
+51," Construction trades, except supervisors ",0.25,65,-0.65,-0.11,0.94,0.19,-0.11
+52, Extractive occupations ,-0.13,79,-0.22,1.16,1.56,0.92,0.68
+53, Production supervisors or foremen ,-1.26,86,-0.96,0.06,-0.18,0.63,-0.31
+54, Precision metal working occupations ,-0.6,80,0.72,0.75,1.05,1.56,0.54
+55, Precision woodworking occupations ,-0.04,40,0.04,1.22,1.81,1.49,-0.01
+56," Precision textile, apparel, and furnishings machine workers ",-0.16,22,0.2,0.83,1.57,1.76,0.5
+57," Precision workers, assorted materials ",0.2,42,0.06,0.77,0.18,-0.11,-0.21
+58, Precision food production occupations ,-0.07,46,2.24,0.7,0.81,0.36,1.16
+59," Precision inspectors, testers, and related workers ",0,39,-0.08,0.24,1.78,1.76,3.19
+60, Plant and system operators ,-0.07,85,-0.34,0,0.88,1.16,1.01
+61, Metal working and plastic working machine operators ,-0.59,68,0.74,1.96,1.41,1.67,1.09
+62, Metal and plastic processing machine operators ,-0.15,58,0.58,1.18,1.58,1.81,1.06
+63, Woodworking machine operators ,0.3,39,0.35,0.34,1.03,1.3,0.89
+64, Printing machine operators ,-0.22,63,0.64,2.17,1.29,1.61,0.02
+65," Textile, apparel, and furnishings machine operators ",-1.08,11,0.36,1.56,1.56,1.24,1.48
+66," Machine operators, assorted materials ",-1.58,53,0.12,0.71,1.56,1.6,2.33
+67," Fabricators, assemblers, and hand working occupations ",-1.05,44,0.85,1.5,1.4,1.49,1.26
+68," Production inspectors, testers, samplers, and weighers ",-0.42,57,0.52,0.2,0.38,0.05,0.54
+69, Motor vehicle operators ,0.14,60,-1.2,0.56,0.52,-0.64,0.77
+70, Rail transportation occupations ,-0.13,98,-1.73,0.78,1.14,-0.6,2.63
+71, Water transportation occupations ,-0.03,80,-1.57,0.17,1.75,-0.26,0.35
+72, Material moving equipment operators ,-0.27,76,-0.43,1.22,1.23,-0.92,1.12
+73," Helpers, construction and extractive occupations ",0.49,38,-0.25,0.46,0.73,-0.01,1.68
+74," Freight, stock, and material handlers ",-1.48,23,-0.01,0.91,0.71,0.86,1.92
